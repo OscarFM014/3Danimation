@@ -24,6 +24,7 @@ We will program a park landscape with grass and trees. The animation will be the
 
 ## Prerequisites
 Install and import:
+* Terrain Tools: Window/Package Manager/Advanced/Show preview packages/Terrain Tools
 * Terrain Sample Asset Pack: https://assetstore.unity.com/packages/3d/environments/landscapes/terrain-sample-asset-pack-145808
 * Environmental Asset Pack: https://assetstore.unity.com/packages/3d/environments/environmental-asset-pack-170036
 
